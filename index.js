@@ -2,7 +2,7 @@ import express from "express";
 import { getvmovie, getvserie } from "./src/vidsrcto.js";
 
 
-const port = 80;
+const port = 3000;
 
 const app = express()
 
